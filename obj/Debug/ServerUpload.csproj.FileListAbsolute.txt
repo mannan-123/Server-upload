@@ -1,0 +1,11 @@
+D:\Fiverr\Fiverr\Web Server\ServerUpload\bin\Debug\ServerUpload.exe.config
+D:\Fiverr\Fiverr\Web Server\ServerUpload\bin\Debug\ServerUpload.exe
+D:\Fiverr\Fiverr\Web Server\ServerUpload\bin\Debug\ServerUpload.pdb
+D:\Fiverr\Fiverr\Web Server\ServerUpload\obj\Debug\ServerUpload.csproj.AssemblyReference.cache
+D:\Fiverr\Fiverr\Web Server\ServerUpload\obj\Debug\ServerUpload.csproj.SuggestedBindingRedirects.cache
+D:\Fiverr\Fiverr\Web Server\ServerUpload\obj\Debug\ServerUpload.Form1.resources
+D:\Fiverr\Fiverr\Web Server\ServerUpload\obj\Debug\ServerUpload.Properties.Resources.resources
+D:\Fiverr\Fiverr\Web Server\ServerUpload\obj\Debug\ServerUpload.csproj.GenerateResource.cache
+D:\Fiverr\Fiverr\Web Server\ServerUpload\obj\Debug\ServerUpload.csproj.CoreCompileInputs.cache
+D:\Fiverr\Fiverr\Web Server\ServerUpload\obj\Debug\ServerUpload.exe
+D:\Fiverr\Fiverr\Web Server\ServerUpload\obj\Debug\ServerUpload.pdb
